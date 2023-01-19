@@ -1,0 +1,15 @@
+C:\Users\Denilson\Desktop\CURSOC#\bin\Debug\net6.0\CURSOC#.exe
+C:\Users\Denilson\Desktop\CURSOC#\bin\Debug\net6.0\CURSOC#.deps.json
+C:\Users\Denilson\Desktop\CURSOC#\bin\Debug\net6.0\CURSOC#.runtimeconfig.json
+C:\Users\Denilson\Desktop\CURSOC#\bin\Debug\net6.0\CURSOC#.dll
+C:\Users\Denilson\Desktop\CURSOC#\bin\Debug\net6.0\ref\CURSOC#.dll
+C:\Users\Denilson\Desktop\CURSOC#\bin\Debug\net6.0\CURSOC#.pdb
+C:\Users\Denilson\Desktop\CURSOC#\obj\Debug\net6.0\CURSOC#.csproj.AssemblyReference.cache
+C:\Users\Denilson\Desktop\CURSOC#\obj\Debug\net6.0\CURSOC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denilson\Desktop\CURSOC#\obj\Debug\net6.0\CURSOC#.AssemblyInfoInputs.cache
+C:\Users\Denilson\Desktop\CURSOC#\obj\Debug\net6.0\CURSOC#.AssemblyInfo.cs
+C:\Users\Denilson\Desktop\CURSOC#\obj\Debug\net6.0\CURSOC#.csproj.CoreCompileInputs.cache
+C:\Users\Denilson\Desktop\CURSOC#\obj\Debug\net6.0\CURSOC#.dll
+C:\Users\Denilson\Desktop\CURSOC#\obj\Debug\net6.0\ref\CURSOC#.dll
+C:\Users\Denilson\Desktop\CURSOC#\obj\Debug\net6.0\CURSOC#.pdb
+C:\Users\Denilson\Desktop\CURSOC#\obj\Debug\net6.0\CURSOC#.genruntimeconfig.cache
