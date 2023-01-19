@@ -1,6 +1,6 @@
 ﻿
 // Descobrindo idade.
-
+/*
 Console.WriteLine("Digite seu nome: ");
 string nome = Console.ReadLine();
 Console.WriteLine("Qual ano você nasceu?");
@@ -16,7 +16,27 @@ if(age <= 18)
  else 
     {
     Console.WriteLine("Você é maior de idade");
+    }*/
+
+class Program
+{
+    static void Main(string[] a)
+    {
+        string[] names = { "Dida", "Ervin", "Denilson"};
+
+    if (string.Equals(names[0], "dida", StringComparison.OrdinalIgnoreCase)) // comparando ignorando maiúscol e minusculos  
+    {
+        Console.WriteLine("Igaul");
     }
+
+        foreach (var name in names)
+        {
+           
+                Console.WriteLine(name);
+            
+        }
+    }
+}
 
 
 /*  comentários:
